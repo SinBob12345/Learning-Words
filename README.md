@@ -112,11 +112,4 @@ For future projects, I will make the following improvements:
 ### 7. Declaration of AI-Generated Material
 I declare that generative AI was used in this assignment. Tool: ChatGPT / AI Assistants. Purpose: (1) explaining concepts and troubleshooting errors; (2) correcting code that produced errors into the proper format so that it runs correctly; (3) polishing the wording of this self-reflection. I reviewed, tested and edited all AI-assisted output, and the experiences and reflections described in this document are my own. I take full responsibility for the submitted work and can provide the relevant AI chat records on request.
 
----
 
-## 🛠 How to Build & Run
-1. Open the project in Android Studio (Jellyfish or newer recommended).
-2. Sync Gradle files (`Gradle Sync`).
-3. Select an emulator or connected device (API 26+).
-4. Run `:app:assembleDebug` or click **Run 'app'**.
-5. Run unit tests via `:app:testDebugUnitTest`.
